@@ -1,0 +1,3 @@
+pyrogram
+yt-dlp
+py-tgcalls==2.2.3
